@@ -1,2 +1,0 @@
-CSS toma las etiquetas de abajo para arriba
-la especificidad se trata de jerarquias e importancia de las etiquetas 
